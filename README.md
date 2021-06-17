@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManishDandre
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Graduation
+- 🌱 I’m currently learnig computer Science
 - 💞️ I’m looking to collaborate on startup
 - 📫 How to reach me manishdandre@protonmail.com
 
